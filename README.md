@@ -21,6 +21,8 @@
 RxJava + Retrofit + okHttp 已成为当前Android 网络请求最流行的方式。
 
 （1）Retrofit 负责请求的数据和请求的结果，使用接口的方式呈现
+
 （2）RxJava 负责异步，各种线程之间的切换
+
 （3）OkHttp 负责请求的过程。
 
