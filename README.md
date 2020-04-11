@@ -1,9 +1,11 @@
 # Retrofit_Rxjava_Okhttp_DownloadImage_Train
 
-1.¹¦ÄÜ
-Ê¹ÓÃRetrofit+Rxjava+Okhttp¿ò¼ÜÏÂÔØÍ¼Æ¬½øĞĞÕ¹Ê¾ÇÒ´æÈë±¾µØ
+1.åŠŸèƒ½
 
-2.µ¼°ü
+ä½¿ç”¨Retrofit+Rxjava+Okhttpæ¡†æ¶ä¸‹è½½å›¾ç‰‡è¿›è¡Œå±•ç¤ºä¸”å­˜å…¥æœ¬åœ°
+
+2.å¯¼åŒ…
+
     implementation 'com.squareup.retrofit2:retrofit:2.0.2'
     implementation 'com.squareup.retrofit2:converter-gson:2.0.2'
     implementation 'com.jakewharton.retrofit:retrofit2-rxjava2-adapter:1.0.0'
@@ -14,11 +16,11 @@
 
     implementation 'com.squareup.okhttp3:okhttp:3.1.2'
 
-3.Retrofit+Rxjava+Okhttp¿ò¼Ü¼ò½é
+3.Retrofit+Rxjava+Okhttpæ¡†æ¶ç®€ä»‹
 
-RxJava + Retrofit + okHttp ÒÑ³ÉÎªµ±Ç°Android ÍøÂçÇëÇó×îÁ÷ĞĞµÄ·½Ê½¡£
+RxJava + Retrofit + okHttp å·²æˆä¸ºå½“å‰Android ç½‘ç»œè¯·æ±‚æœ€æµè¡Œçš„æ–¹å¼ã€‚
 
-£¨1£©Retrofit ¸ºÔğÇëÇóµÄÊı¾İºÍÇëÇóµÄ½á¹û£¬Ê¹ÓÃ½Ó¿ÚµÄ·½Ê½³ÊÏÖ
-£¨2£©RxJava ¸ºÔğÒì²½£¬¸÷ÖÖÏß³ÌÖ®¼äµÄÇĞ»»
-£¨3£©OkHttp ¸ºÔğÇëÇóµÄ¹ı³Ì¡£
+ï¼ˆ1ï¼‰Retrofit è´Ÿè´£è¯·æ±‚çš„æ•°æ®å’Œè¯·æ±‚çš„ç»“æœï¼Œä½¿ç”¨æ¥å£çš„æ–¹å¼å‘ˆç°
+ï¼ˆ2ï¼‰RxJava è´Ÿè´£å¼‚æ­¥ï¼Œå„ç§çº¿ç¨‹ä¹‹é—´çš„åˆ‡æ¢
+ï¼ˆ3ï¼‰OkHttp è´Ÿè´£è¯·æ±‚çš„è¿‡ç¨‹ã€‚
 
